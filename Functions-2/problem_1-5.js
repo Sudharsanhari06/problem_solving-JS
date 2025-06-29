@@ -85,7 +85,7 @@ function prime(num){
         return "Its Not a prime Number "+num;
     }
 }
-console.log("prime: ",prime(49));
+console.log("prime:",prime(49));
 
 
 
