@@ -39,7 +39,6 @@ function allCombination(){
         for(let j=start;j<=end;j++){
            let s=String.fromCharCode(i);
             let e=String.fromCharCode(j);
-
             arr.push(`{ ${s}, ${e}}`)
         }
     }
