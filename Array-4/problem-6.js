@@ -7,6 +7,7 @@ word1 represents string "ab" + "c" -> "abc"
 word2 represents string "a" + "bc" -> "abc"
 The strings are the same, so return true.*/
 
+
 var arrayStringsAreEqual = function(word1, word2) {
     let str1=word1.join('');
     let str2=word2.join('');
