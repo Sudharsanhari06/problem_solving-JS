@@ -14,7 +14,7 @@ let input = "George Raymond Richard Martin";
 let str=input.split(' ');
 
 let op3=str.map((item)=>item[0]);
-console.log(op3)
+console.log(op3) 
 
 
 
