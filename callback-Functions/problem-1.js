@@ -1,5 +1,6 @@
 // Write a JavaScript program to find multiply, add for the given number using the callback
 
+
 function calculate(number, callback) {
     return callback(number);
   }
