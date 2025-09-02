@@ -1,5 +1,4 @@
 
-
 // problem link:https://leetcode.com/problems/matrix-diagonal-sum/
 
 var diagonalSum = function(mat) {
