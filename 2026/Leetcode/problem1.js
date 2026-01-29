@@ -1,6 +1,4 @@
-// 1217. Minimum Cost to Move Chips to The Same Position
-
-
+// 1217. Minimum Cost to Move Chips to The Same Positio
 var minCostToMoveChips = function(position) {
     let odd=0;
     let even=0;
