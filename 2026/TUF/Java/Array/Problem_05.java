@@ -11,11 +11,7 @@ class Problem_05 {
         arr[arr.length-1]=first;    
         return arr; 
 
-    }
-
-
-
-    public static void main(String[] args) {
+    }    public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
 
         System.out.println("Left Rotate Array:"+ Arrays.toString(firstLeftArray(arr)));
