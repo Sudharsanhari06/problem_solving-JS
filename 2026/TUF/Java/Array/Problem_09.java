@@ -2,9 +2,7 @@
 
 
 class Problem_09 {
-    
     static int appearsOnce(int[] arr){
- 
         for(int i=0;i<arr.length;i++){
             int num=arr[i];
             int count=0;
